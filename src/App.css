@@ -1,0 +1,26 @@
+.main-footer {
+  color: white;
+  background-color: #060847;
+  padding: 1em;
+  position: relative;
+  bottom: 0;
+  /* width: 100%; */
+}
+ 
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align:center;
+  
+}
+.content-wrap {
+  flex: 1;
+}
+
+body{
+  background-color:#f8f8f8;
+  /* text-align: center; */
+ 
+}
+
